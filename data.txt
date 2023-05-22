@@ -1,0 +1,219 @@
+
+2144
+Nutr Hosp. 2015;32(5):2144-2152
+ISSN 0212-1611 • CODEN NUHOEQ
+S.V.R. 318
+Original / Alimentos funcionales
+A coconut extra virgin oil-rich diet increases HDL cholesterol and decreases
+waist circumference and body mass in coronary artery disease patients
+Diuli A. Cardoso 1 , Annie S. B. Moreira2 , Glaucia M. M. de Oliveira1 , Ronir Raggio Luiz3 and
+Glorimar Rosa 4
+1
+Postgraduate Program in Cardiology at the School of Medicine, Universidade Federal do Rio de Janeiro (UFRJ). 2
+Applied
+Nutrition Department of Universidade do Estado do Rio de Janeiro (UERJ); Research dietitian and professor at Instituto Nacional
+de Cardiologia (INC). 3
+Institute for Collective Health Studies, Federal University of Rio de Janeiro, Rio de Janeiro. 4
+Department
+of Nutrition and Dietetics, Josué de Castro Nutrition Institute of Universidade Federal do Rio de Janeiro (UFRJ), Brazil.
+Abstract
+Introduction: saturated fat restriction has been recom-
+mended for coronary arterial disease, but the role of coco-
+nut oil (Cocos nucifera L.) extra virgin, lauric acid source
+in the management of lipid profile remains unclear.
+Objective: to evaluate the effect of nutritional treat-
+ment associated with the consumption of extra virgin co-
+conut oil in anthropometric parameters and lipid profile.
+Methods: we conducted a longitudinal study of 116
+adults of both sexes presenting CAD. Patients were fo-
+llowed in two stages: the first stage (basal-3 months),
+intensive nutritional treatment. In the second stage
+(3-6 months), the subjects were divided into two groups:
+diet group associated with extra virgin coconut oil con-
+sumption (GDOC) and diet group (DG). Held monthly
+anthropometric measurements: body mass, waist circum-
+ference (WC), neck circumference (PP), body mass index
+(BMI). Gauged to collected blood pressure and blood sam-
+ples were fasted for 12 hours, for total cholesterol analysis
+and fractions apoproteins (Apo A-1 and B), glucose, glyca-
+ted hemoglobin (HbA1C), insulin (I). Comparing the ave-
+rages at the beginning and end of the study employing the
+paired Student t-independent. And set the diastolic blood
+pressure by BMI using ANOVA. Analyses were perfor-
+med using the SPSS statistical package, being significant
+p < 0.05.
+Results: the mean age of the population was 62.4 ±
+7.7 years, 63.2% male, 70% elderly, 77.6% infarcted,
+52.6% with angina, hypertension and dyslipidemia
+100%. In the first stage the nutritional treatment re-
+duced body weight, WC, BMI and PP and insulin con-
+centrations, HbA1C, HOMA-IR and QUICK, without
+changing the other parameters. In the second stage of
+the study, it was observed that the GDOC maintained the
+reduction of body mass, BMI, WC, with a significant di-
+fference between groups for DC (-2.1 ± 2,7cm; p < 0.01).
+EL ACEITE DE COCO VIRGEN EXTRA
+RICO EN ÁCIDOS GRASOS INCREMENTA
+EL COLESTEROL HDL Y DISMINUYE LA
+CIRCUNFERENCIA DE LA CINTURA Y LA
+MASA CORPORAL EN PACIENTES CON
+ENFERMEDADES DE LA ARTERIA CORONARIA
+Resumen
+Introducción: el aceite de coco (Cocos nucifera L.) vir-
+gen extra contiene una alta proporción de ácidos grasos
+de cadena media que parecen contribuir a la reducción
+del peso y podría ayudar en la prevención secundaria de
+la enfermedad arterial coronaria (EAC).
+Objetivo: evaluar el efecto del tratamiento nutricional
+asociado con el consumo de aceite de coco virgen extra en
+los parámetros antropométricos y el perfil lipídico.
+Métodos: se realizó un estudio longitudinal de 116
+adultos de ambos sexos que presentan CAD. Los pacien-
+tes fueron seguidos en dos etapas: en la primera etapa
+(basal-3 meses), se llevo a cabo un tratamiento nutricio-
+nal intensivo. En la segunda etapa (3-6 días), los suje-
+tos fueron divididos en dos grupos: grupo asociado con
+el consumo de aceite extra virgen de coco (GDOC) y el
+grupo de dieta (GD). Se realizaron mediciones mensuales
+antropométricas: peso, circunferencia de la cintura (CC),
+circunferencia del cuello (PP) e índice de masa corporal
+(IMC). Se tomó la presión arterial y muestras de sangre
+recogidas en ayunas durante 12 horas para el análisis de
+colesterol total y lipoproteínas, apoproteínas (Apo A-1 y
+B), glucosa, hemoglobina glucosilada (HbA1c) e insulina
+(I). Se compararon los promedios al principio y al final
+del estudio mediante el test t de Student-independiente.
+Se ajustó la presión arterial diastólica por el IMC me-
+diante ANOVA. Los análisis se realizaron con el paquete
+estadístico SPSS, siendo significativa p < 0.05.
+Resultados: la edad media de la población fue de 62,4 ±
+7,7 años, el 63,2% hombres, 70% mayores, el 77,6% con
+infarto de miocardio, el 52,6% con angina de pecho y el
+100% con hipertensión arterial y dislipidemia. En la pri-
+mera etapa del tratamiento nutricional se redujeron las
+concentraciones de insulina, peso, WC, IMC y PP, HbA1C,
+HOMA-IR y rápido, sin cambiar otros parámetros. En la
+segunda etapa del estudio se observó que la GDOC mantie-
+ne la reducción del peso, BMI, WC, con una diferencia sig-
+nificativa entre los grupos para DC (-2,1 ± 2,7 cm; p < 0,01).
+Correspondence: Annie Bello Moreira.
+Universidade do Estado do Rio de Janeiro.
+Rua São Francisco Xavier, 524, Pavilhão João Lyra Filho,
+12.º andar, Bloco D, Cep: 20559-900 Rio de Janeiro, RJ – Brasil.
+E-mail: anniebello@gmail.com
+Recibido: 14-VII-2015.
+Aceptado: 17-VIII-2015.
+2145Nutr Hosp. 2015;32(5):2144-2152A coconut extra virgin oil-rich diet
+increases HDL cholesterol and decreases
+waist circumference and body mass...
+Introduction
+Secondary prevention for patients with coronary ar-
+tery disease (CAD) aims to avoid new cardiovascular
+events1
+. The change towards a healthier lifestyle pre-
+sents a 44% decrease in mortality from CAD2,3
+. Recent
+guidelines emphasize the necessity of reducing visceral
+fat, and controlling blood pressure and dyslipidemia1,2
+.
+The adoption of a dietary pattern based on good
+sources of mono- and polyunsaturated fat, fiber, fruit,
+vegetables, whole grains, olive oil and nuts results in
+the decrease of risk factors for cardiovascular disease.
+On the other hand, according to the National Health
+and Nutrition Examination Survey (2007-2011), con-
+ducted on 759 individuals with CAD, data showed
+very low compliance to the nutritional and clinical
+treatment, with only 20% displaying adequate body
+weight, and 59% having lipid profile control4 .
+New therapeutic targets are necessary to increase
+compliance to dietary treatments. Due to this neces-
+sity, the effects of functional foods 5 have been studied.
+Although no consensus exists over the subject, func-
+tional foods appear to exert some beneficial action on
+lipid profile and promote better compliance to dietary
+treatment6.
+In this context, extra virgin coconut oil (Cocos nu-
+cifera L.), extracted from the fresh coconut pulp, has
+been acknowledged for its high proportion of me-
+dium-chain fatty acids (MCFA), lauric acid7 (source of
+vitamin E), and polyphenols with antioxidant activity8 .
+The scientific literature has shown benefits of extra
+virgin coconut oil to the reduction of body fat9,10,11 , but
+there is still controversy over its effects on lipid profi-
+le, since it is a source of saturated fat11 e 12
+.
+Thus, the aim of this study was to evaluate the effect
+of a diet rich in coconut oil concerning the improvement
+of lipid profile and anthropometric measurements.
+Methods
+Study subjects and design
+We conducted a nonrandomized 6-month clinical
+trial, with 360 patients being initially screened. The
+study included patients of both genders aged 45-85
+years on secondary prevention of CAD (myocardial
+infarction and/or stable angina), with the use of li-
+pid-lowering drugs for longer than six months, seen at
+an outpatient department of a specialized cardiology
+hospital during January-September, 2012. It excluded
+those who had coronary artery bypass grafting and
+previous cardiovascular event within less than 6 mon-
+ths, those who had chronic renal failure with creatinine
+levels greater than 1.2 mg/dL, patients using coconut
+oil, food supplements, and those who suffered from li-
+ver diseases.
+From the screened population, 136 patients met the
+eligibility criteria for the three-month run-in phase in
+order to homogenize or standardize their food intake.
+From the third month the allocation was performed
+for two intervention groups: diet group (DG) (n = 22),
+who remained only with diet, and another group that
+besides diet received extra virgin coconut oil (CODG)
+(n = 92). The study details are better shown in figu-
+re 1.
+Patients were seen in a monthly basis at the cli-
+nical nutrition department of a specialized hospital
+where they received intensive dietary treatment with
+periodic phone calls to assess compliance. In ad-
+dition, all patients were provided with a telephone
+number to contact to dispel doubts whenever neces-
+sary. Socio economic and demographic data, infor-
+mation on past medical history and present illness,
+drug therapy, and physical exercise 13 were collec-
+ted. In each visit, 12-hour fasting blood sample was
+drawn, 24-hour dietary recall was obtained, anthro-
+pometric assessment was made and systemic blood
+pressure (BP) was measured. At the beginning of the
+run-in period, all patients were given a adequate nu-
+tritional status diet and instructed to follow it until
+the end of the study.
+The experimental protocol was approved by the
+Research Ethics Committee of Instituto Nacional de
+Cardiologia (INC)-RJ under no. 0305/2010, and its
+National Clinical Trial (NCT) number is 01962844.
+All the volunteers were informed about the procedures
+they would undergo during the research, and signed
+the statement of informed consent (SIC).
+In addition, there was an increase in HDL-C concentra-
+tions, Apo A, with significant difference in GD, only for
+HDL-C (3.1 ± 7.4 mg/dL; p = 0.02).
+Conclusion: it was observed that the nutritional treat-
+ment associated with extra virgin coconut oil consump-
+tion reduced the CC and increased HDL-C levels in pa-
+tients with CAD.
+(Nutr Hosp. 2015;32:2144-2152)
+DOI:10.3305/nh.2015.32.5.9642
+Key words: Coronary artery disease. Nutritional treat-
+ment. Secondary prevention and extra virgin coconut oil.
+Además, se produjo un aumento en las concentraciones de
+HDL-C, Apo A, con una diferencia significativa en GD, solo
+para HDL-C (3,1 ± 7,4 mg/dl; p = 0,02).
+Conclusión: se observó que el tratamiento nutricional
+asociado con el consumo de aceite de coco virgen extra
+redujo la CC e incrementó los niveles de HDL-C en pa-
+cientes con CAD.
+(Nutr Hosp. 2015;32:2144-2152)
+DOI:10.3305/nh.2015.32.5.9642
+Palabras clave: Enfermedad coronaria arterial. Trata-
+miento nutricional. Prevención secundaria y aceite de coco
+virgen extra.
